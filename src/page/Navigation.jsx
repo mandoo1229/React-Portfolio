@@ -8,9 +8,9 @@ function Navigation() {
     <>
       <Navbar bg="dark" data-bs-theme="dark">
         <Container>
-          <Navbar.Brand href="#home">Minwoo Portfolio</Navbar.Brand>
+          <Navbar.Brand href="/">Minwoo Portfolio</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="#home" className="home">
+            <Nav.Link href="/" className="home">
               Home
             </Nav.Link>
             <Nav.Link href="#features">Features</Nav.Link>
