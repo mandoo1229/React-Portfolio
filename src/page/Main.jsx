@@ -7,7 +7,12 @@ const Main = () => {
   return (
     <div>
       <Navigation />
-      <img className="photo" src={photo} />
+      <div>
+        <div className="portfolio">PORTFOLIO</div>
+        <img className="photo" src={photo} />
+        <div className="name"> NAM MIN WOO</div>
+        <div className="front">Front-End Developer</div>
+      </div>
     </div>
   );
 };
