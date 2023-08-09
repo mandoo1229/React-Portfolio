@@ -16,27 +16,27 @@ const Main = () => {
         <img className="photo" src={photo} />
         <div className="name"> NAM MIN WOO</div>
         <div className="front">Front-End Developer</div>
-        <div className="githut">
+        <div className="icons">
           <SlCalender size="20" className="icon" style={{ marginRight: '10px' }} />
           1994.12.29
         </div>
-        <div className="githut">
+        <div className="icons">
           <AiFillHome size="20" className="icon" style={{ marginRight: '10px' }} />
           서울시 강서구 내발산동
         </div>
-        <div className="githut">
+        <div className="icons">
           <BsFillTelephoneFill size="20" className="icon" style={{ marginRight: '10px' }} />
           010-2318-9836
         </div>
-        <div className="githut">
+        <div className="icons">
           <AiTwotoneMail size="20" className="icon" style={{ marginRight: '10px' }} />
           skaalsdn35@gmail.com
         </div>
-        <div className="githut">
+        <div className="icons">
           <FaGithub size="20" className="icon" style={{ marginRight: '10px' }} />
           https://github.com/mandoo1229
         </div>
-        <div className="githut">
+        <div className="icons">
           <FaBlogger size="20" className="icon" style={{ marginRight: '10px' }} />
           velog.io/@mandoo1229
         </div>
