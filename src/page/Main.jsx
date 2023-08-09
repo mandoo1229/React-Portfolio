@@ -2,6 +2,10 @@ import React from 'react';
 import '../style/main.css';
 import Navigation from './Navigation';
 import photo from '../image/photo.jpg';
+import { FaGithub, FaBlogger } from 'react-icons/fa';
+import { AiTwotoneMail, AiFillHome } from 'react-icons/ai';
+import { SlCalender } from 'react-icons/sl';
+import { BsFillTelephoneFill } from 'react-icons/bs';
 
 const Main = () => {
   return (
@@ -12,6 +16,30 @@ const Main = () => {
         <img className="photo" src={photo} />
         <div className="name"> NAM MIN WOO</div>
         <div className="front">Front-End Developer</div>
+        <div className="githut">
+          <SlCalender size="20" className="icon" style={{ marginRight: '10px' }} />
+          1994.12.29
+        </div>
+        <div className="githut">
+          <AiFillHome size="20" className="icon" style={{ marginRight: '10px' }} />
+          서울시 강서구 내발산동
+        </div>
+        <div className="githut">
+          <BsFillTelephoneFill size="20" className="icon" style={{ marginRight: '10px' }} />
+          010-2318-9836
+        </div>
+        <div className="githut">
+          <AiTwotoneMail size="20" className="icon" style={{ marginRight: '10px' }} />
+          skaalsdn35@gmail.com
+        </div>
+        <div className="githut">
+          <FaGithub size="20" className="icon" style={{ marginRight: '10px' }} />
+          https://github.com/mandoo1229
+        </div>
+        <div className="githut">
+          <FaBlogger size="20" className="icon" style={{ marginRight: '10px' }} />
+          velog.io/@mandoo1229
+        </div>
       </div>
     </div>
   );
