@@ -1,6 +1,33 @@
+@import '@fontsource/inter';
+
 .photo {
   width: 200px;
-  margin-top: 100px;
+  margin-top: 1%;
   margin-left: 10%;
   border-radius: 5%;
+  box-shadow: 3px 3px 3px gray;
+}
+
+.portfolio {
+  margin-top: 5%;
+  margin-left: 10%;
+  font-size: 30px;
+  font-family: 'Inter';
+  font-weight: bold;
+  color: #654b41;
+}
+
+.name {
+  margin-top: 20px;
+  margin-left: 10%;
+  font-size: 29px;
+  color: #9db9c7;
+  font-family: 'Inter';
+  font-weight: bold;
+}
+
+.front {
+  margin-left: 10%;
+  font-family: 'Inter';
+  font-size: 20px;
 }
