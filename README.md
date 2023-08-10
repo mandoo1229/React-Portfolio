@@ -1,5 +1,10 @@
 ## Portfolio 제작
 
+## Protfolio Design
+
+Figma
+https://www.figma.com/file/qP2KBWXLclUSxelgwl2lQ7/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?type=design&node-id=0-1&mode=design&t=9O8nly6wf6gi6mD3-0
+
 ## Git Convention
 
 | 태그 이름 |                                             설명                                              |
