@@ -13,8 +13,8 @@ function Navigation() {
             <Nav.Link href="/" className="home">
               Home
             </Nav.Link>
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
+            <Nav.Link href="#features">Education</Nav.Link>
+            <Nav.Link href="#pricing">Project</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
